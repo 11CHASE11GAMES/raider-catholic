@@ -9,7 +9,7 @@ const eventsList = document.getElementById("eventsList");
 const calendarStatus = document.getElementById("calendarStatus");
 
 const CALENDAR_API_URL =
-  "https://raider-catholic-calendar-proxy.vercel.app/api/calendar?limit=6";
+  "https://raider-catholic-calendar-proxy.vercel.app/api/calendar?limit=8";
 
 const ICS_WEBCAL_URL =
   "webcal://outlook.office365.com/owa/calendar/3f27e5fcd8c54156a67a04e6c92a556d@msoe.edu/39fd891e541a4016a9fecf8ed36628826223923538709763827/calendar.ics";
